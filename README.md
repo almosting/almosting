@@ -1,21 +1,13 @@
 ### Hi there 👋
 
-<!--
-**fengwei23/fengwei23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an Android and Embedded Developer working in Chengdu, China.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I'm an Android and Embedded developer
+- 🔭 I'm currently working at **Sunmedia**
+- ⚙️ I use daily: `Kotlin`, `Java`, `C`, `C++`, `Android`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack),Kotlin,Python
-- 💬 Ask me about Android development
+- 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
 - ⚡ Fun fact: I 'm not smart
