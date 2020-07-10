@@ -7,4 +7,4 @@
 - 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack),Kotlin,Python,Multimedia
 - 💬 Ask me about **Android**, **Kotlin**, **Linux**, **Multimedia**
 - 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
-- ⚡ Fun fact: I 'm a big fan for Leborn James
+- ⚡ Fun fact: I 'm a big fan for LeBron James
