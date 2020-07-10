@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Jetpack,Kotlin,Python
 - 💬 Ask me about Android development
 - 📫 How to reach me: Twitter or Telegram
-- 😄 Pronouns: he/him
-Mozart, Beethoven, and Chopin never died. They simply became their music.
 - ⚡ Fun fact: I 'm not smart
