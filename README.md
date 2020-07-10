@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm an Android and Embedded developer
-- 🌱 I'm currently learning Jetpack,Kotlin,Python
+- 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack),Kotlin,Python
 - 💬 Ask me about Android development
-- 📫 How to reach me: Twitter or Telegram
+- 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
 - ⚡ Fun fact: I 'm not smart
