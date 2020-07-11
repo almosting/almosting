@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working at **Sunmedia**
 - ⚙️ I use daily: `Kotlin`,`Java`, `C`, `C++`, `Android`
-- 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack),Kotlin,Python,Multimedia
+- 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack),[Kotlin](https://www.kotlincn.net/),[Python](https://dabeaz-course.github.io/practical-python/),Multimedia
 - 💬 Ask me about **Android**, **Kotlin**, **Linux**, **Multimedia**
 - 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
 - ⚡ Fun fact: I 'm a big fan for LeBron James
