@@ -8,3 +8,5 @@
 - 💬 Ask me about **Android**, **Kotlin**, **Linux**, **Multimedia**
 - 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
 - ⚡ Fun fact: I 'm a big fan for LeBron James
+
+[![almosting's github stats](https://github-readme-stats.vercel.app/api?username=almosting)](https://github.com/anuraghazra/github-readme-stats)
