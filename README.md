@@ -2,7 +2,7 @@
 
 #### I'm an Android and Embedded Developer working in Chengdu, China.
 
-<a href="https://github.com/almosting"><img align="right" src="https://github-readme-stats.vercel.app/api?username=almosting&show_icons=true&theme=tokyonight" alt="Almosting's github stats" /></a>
+<a href="https://github.com/almosting"><img align="bottom" src="https://github-readme-stats.vercel.app/api?username=almosting&show_icons=true&theme=tokyonight" alt="Almosting's github stats" /></a>
 
 - 🔭 I'm currently working at **Sunmedia**
 - ⚙️ I use daily: `Kotlin`,`Java`, `C`, `C++`, `Android`
