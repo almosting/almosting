@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/almostingKing?s=09) or [Telegram](https://t.me/almsoting23)
 - ⚡ Fun fact: I 'm a big fan for LeBron James
 
-[![almosting's github stats](https://github-readme-stats.vercel.app/api?username=almosting&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![almosting's github stats](img align="right" src=https://github-readme-stats.vercel.app/api?username=almosting&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
