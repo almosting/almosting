@@ -14,7 +14,7 @@
   I'm actively looking for a Android job 🦀
 - ⚡ Android / Kotlin / Java / C / C++ 
 - ✍️ [Blogger](https://fwrite.site)
-- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moorekang@gmail.com)](mailto:moorekang@gmail.com)
+- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=fengweisb@gmail.com)](mailto:fengweisb@gmail.com)
 
 </td>
 </tr>
