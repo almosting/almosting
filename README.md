@@ -1,20 +1,36 @@
-<table>
-<tr>
-<td>
+<!-- Your title -->
+## Hi, I'm fwrite, a Developer 🚀 from China.
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=almosting)]()
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=almosting)
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dalmosting&style=flat-square)](https://github.com/almosting)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://fwrit.site/atom.xml&style=flat-square)](https://fwrite.site/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/almosting)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fengweisb@gmail.com)
 
-</td>
-<td>
-  
-- ⚡ Android / Kotlin / Java / C / C++ 
-- ✍️ [Blogger](https://fwrite.site)
-- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=fengweisb@gmail.com)](mailto:fengweisb@gmail.com)
+&nbsp;
 
-</td>
-</tr>
-</table>
+**Languages and Tools:** 
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=almosting&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <br />
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
