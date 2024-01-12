@@ -17,5 +17,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almosting&layout=compact)](https://github.com/almosting/github-readme-stats)
+
 ## 🎶 Recently Played
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=56188044&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=56188044&theme=card&themeColor=e60026&size=300)
