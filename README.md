@@ -35,3 +35,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
+<img src="https://netease-recent-profile.vercel.app/?id=56188044&size=60" alt="Netease recently played" title="Netease recently played">
+
