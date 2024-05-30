@@ -1,12 +1,8 @@
-<!-- Your title -->
-## Hi, I'm fwrite, an Android Developer 🚀.
+## Hey! Nice to see you.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fwrite0920)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fengweisb@gmail.com)
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -17,5 +13,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwrite0920&layout=compact)](https://github.com/fwrite0920/github-readme-stats)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fwrite0920)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fengweisb@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=white)](https://x.com/fwrite_site)
 
